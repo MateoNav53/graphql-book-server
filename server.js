@@ -28,6 +28,7 @@ const books = [
   { id: 6, name: "The Return of the King", authorId: 2 },
   { id: 7, name: "The Way of Shadows", authorId: 3 },
   { id: 8, name: "Beyond the Shadows", authorId: 3 },
+  { id: 9, name: "Models", authorId: 4 },
 ];
 
 const BookType = new GraphQLObjectType({
